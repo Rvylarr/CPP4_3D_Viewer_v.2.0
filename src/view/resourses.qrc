@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/central_template.png</file>
+        <file>icons/circle.png</file>
+        <file>icons/circle_none.png</file>
+        <file>icons/cube.png</file>
+        <file>icons/cube_empty.png</file>
+        <file>icons/cube_template.png</file>
+        <file>icons/cube_template_2.png</file>
+        <file>icons/file.png</file>
+        <file>icons/file_pressed.png</file>
+        <file>icons/move.png</file>
+        <file>icons/rotate.png</file>
+        <file>icons/scale.png</file>
+        <file>icons/screen_tamplate.png</file>
+        <file>icons/screencast.png</file>
+        <file>icons/screencast_pressed.png</file>
+        <file>icons/screenshot.png</file>
+        <file>icons/screenshot_pressed.png</file>
+        <file>icons/square.png</file>
+        <file>icons/square_dotted.png</file>
+        <file>icons/square_none.png</file>
+        <file>icons/parallel_template.png</file>
+        <file>icons/info.png</file>
+    </qresource>
+</RCC>
